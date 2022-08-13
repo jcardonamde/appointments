@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+
+.home_new_appointment {
+    margin-left: 80px;
+}
+
+.logout_new_appointment {
+    margin-right: 80px;
+}
+
+.selector {
+    width: 369px;
+    margin-left: 12px;
+}
+
+.add_button__new_appointment {
+    margin-left: 315px;
+}
+
+.cancel_button__new_appointment {
+    margin-left: 230px;
+    position: relative;
+    top: 47px;
+}
