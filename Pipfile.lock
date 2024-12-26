@@ -168,7 +168,7 @@
                 "sha256:a987caf1092edc7523edb139edb20c70571c4a8d5eed02e0b547b4739174d091"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.3.3"
+            "version": "==3.0.6"
         }
     },
     "develop": {}
