@@ -13,7 +13,7 @@ flash==1.0.3
 flask-bcrypt==1.0.1
 flask==2.3.2
 itsdangerous==2.1.2; python_version >= '3.7'
-jinja2==3.1.5; python_version >= '3.7'
+jinja2==3.1.6; python_version >= '3.7'
 markupsafe==2.1.2; python_version >= '3.7'
 pymysql==1.1.1
 werkzeug==3.0.6; python_version >= '3.8'
